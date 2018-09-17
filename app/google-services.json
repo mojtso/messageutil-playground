@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "607734937097",
+    "firebase_url": "https://ourmessenger-e2206.firebaseio.com",
+    "project_id": "ourmessenger-e2206",
+    "storage_bucket": "ourmessenger-e2206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607734937097:android:34140498cb1deb39",
+        "android_client_info": {
+          "package_name": "com.apps.ourmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607734937097-r75o86v90busei50uj7j4msqddjshkia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlt8zxrhLAZodWoXW1BfZNfe_5S90B0gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
